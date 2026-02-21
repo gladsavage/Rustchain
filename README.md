@@ -91,6 +91,15 @@ clawrtc wallet coinbase link 0xYourBaseAddress
 
 **Core Principle**: Authentic vintage hardware that has survived decades deserves recognition. RustChain flips mining upside-down.
 
+## ❓ Troubleshooting
+
+### Common Issues
+
+#### "Permission denied" during installation
+```bash
+chmod +x install-miner.sh
+./install-miner.sh
+
 ## ⚡ Quick Start
 
 ### One-Line Install (Recommended)
